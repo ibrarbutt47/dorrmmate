@@ -1,0 +1,49 @@
+.property-details-container {
+    padding: 40px;
+    max-width: 900px;
+    margin: auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  }
+  
+  .property-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .close-btn {
+    font-size: 24px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: #888;
+  }
+  
+  .close-btn:hover {
+    color: black;
+  }
+  
+  .image-banner {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  
+  .banner-image {
+    height: 300px;
+    width: 100%;
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
+  
+  .property-info p {
+    font-size: 16px;
+    margin: 8px 0;
+  }
+  
