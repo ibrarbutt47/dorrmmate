@@ -1,2 +1,2 @@
 # dorrmmate
-An AI-based Hostel Management and Roommate Recommendation Platform
+Smart Preference-based Hostel Management and Roommate Recommendation Platform
